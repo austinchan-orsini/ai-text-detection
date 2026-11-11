@@ -1,0 +1,211 @@
+{
+  "C_search": {
+    "0.3": 0.9619276131505234,
+    "1.0": 0.9720639834881322,
+    "3.0": 0.9762384719969859,
+    "10.0": 0.9779056300882927
+  },
+  "chosen_C": 10.0,
+  "top_features": {
+    "machine": [
+      [
+        "w:how to",
+        8.34
+      ],
+      [
+        "w:this article",
+        6.06
+      ],
+      [
+        "w:article",
+        6.01
+      ],
+      [
+        "w:additionally",
+        5.91
+      ],
+      [
+        "w:such as",
+        5.33
+      ],
+      [
+        "w:important to",
+        4.65
+      ],
+      [
+        "w:show that",
+        4.39
+      ],
+      [
+        "w:this study",
+        4.36
+      ],
+      [
+        "c: th",
+        4.16
+      ],
+      [
+        "c: a ",
+        4.06
+      ],
+      [
+        "w:this work",
+        3.83
+      ],
+      [
+        "c:the",
+        3.72
+      ],
+      [
+        "c: the",
+        3.68
+      ],
+      [
+        "w:and is",
+        3.62
+      ],
+      [
+        "w:examines",
+        3.51
+      ]
+    ],
+    "human": [
+      [
+        "c: , ",
+        -28.37
+      ],
+      [
+        "c:,, ",
+        -9.94
+      ],
+      [
+        "w:references",
+        -9.9
+      ],
+      [
+        "c:.; ",
+        -9.18
+      ],
+      [
+        "c: ,,",
+        -8.83
+      ],
+      [
+        "c: ,, ",
+        -6.93
+      ],
+      [
+        "w:at",
+        -6.81
+      ],
+      [
+        "w:we",
+        -6.28
+      ],
+      [
+        "c:,,,",
+        -6.18
+      ],
+      [
+        "w:so",
+        -5.49
+      ],
+      [
+        "w:there",
+        -5.1
+      ],
+      [
+        "w:will",
+        -5.07
+      ],
+      [
+        "w:are",
+        -5.07
+      ],
+      [
+        "w:in",
+        -4.99
+      ],
+      [
+        "w:you",
+        -4.99
+      ]
+    ]
+  },
+  "hardest_unseen_examples": {
+    "chatgpt": [
+      {
+        "domain": "reddit",
+        "score": 0.037,
+        "text": "Well, that's an interesting question you've thrown my way. To answer it, let's first consider what the \"biblical apocalypse\" or \"rapture\" means. Essentially, it refers to a series of catastrophic events that are believed by some Christians to occur at the end of the world, signaling the return of Je"
+      },
+      {
+        "domain": "reddit",
+        "score": 0.104,
+        "text": "Well, like, I'm not super sure about this, but like, I think that before glasses, people just kinda had to deal with crappy vision. I mean, like, it's not like they could just go to the doctor and get some glasses, right? But I guess they probably didn't know what they were missing since they never "
+      },
+      {
+        "domain": "reddit",
+        "score": 0.132,
+        "text": "No, there is no remnant of the womb in males in the same way that the clitoris and penis are related. While the clitoris and penis originate from the same embryonic tissues, there is no such shared tissue between the uterus and male reproductive organs. During embryonic development, both males and f"
+      }
+    ],
+    "davinci": [
+      {
+        "domain": "arxiv",
+        "score": 0.004,
+        "text": "This article examines the relationship between accretion disks and blazars. Magnetic field strength is calculated at the base of the jet and extrapolated to the blazar emission area, based on a relativistic axisymmetric jet model and some relativistic flow assumptions. This extrapolated magnetic fie"
+      },
+      {
+        "domain": "arxiv",
+        "score": 0.004,
+        "text": "This paper presents an examination of exact Type IIB solutions on $AdS_4 \\times S^2 \\times S^2 \\times \\Sigma $ with 16 supersymmetries which were derived in a previous paper. By imposing topological and regularity conditions, an infinite class of such solutions is constructed with varying dilatons a"
+      },
+      {
+        "domain": "arxiv",
+        "score": 0.005,
+        "text": "We investigate the stabilty and many forms of the solar corona in an unconstrained setting with varying intensity levels of the magnetic field in equilibrium. We implement an energy-based approach obtained via non-equilibrium thermodynamics which is conveyed as Hermitian operators, to keep tabs on b"
+      }
+    ],
+    "cohere": [
+      {
+        "domain": "arxiv",
+        "score": 0.01,
+        "text": "We find a characteristic observable signature of preferred frame effects in relativistic binary pulsars. We consider the simplest case of a binary system in which the two objects have the same rest mass, and the only relevant gravitational interaction is between the two objects. In this case, the pr"
+      },
+      {
+        "domain": "arxiv",
+        "score": 0.015,
+        "text": "We present a study of the surface nitrogen abundances and effective temperature scales of massive stars in the solar neighbourhood, based on an analysis of their forbidden [OIII] 5007 luminosity in images obtained with the VLT-FLAMES spectrograph. We find that the distribution of massive stars with "
+      },
+      {
+        "domain": "arxiv",
+        "score": 0.015,
+        "text": "We present photometric observations of the unique system SDSS J080531.84+481233.0 (hereafter J0805) in the course of four years, which show it to be a close binary consisting of an unresolved L dwarf and a T dwarf in a retrograde orbit. This is the first such system to be discovered. The two compone"
+      }
+    ],
+    "dolly": [
+      {
+        "domain": "wikipedia",
+        "score": 0.001,
+        "text": "Here is a list of by-elections in the Kingdom of Great Britain and the Kingdom of Ireland (1715\u20131734), ordered by the year the election was held: 1715 Gosport 1716 Sheffield 1722 Moulsecoomb 1729 Stockbridge 1734 Lincoln See also List of MPs elected in the 1715 to 1722 periods References 1715 Catego"
+      },
+      {
+        "domain": "arxiv",
+        "score": 0.001,
+        "text": "The Second Data Release of the Ancient Globular Cluster Survey (Holtzman et al. 2017a) is the first data release of the simultaneous spectral fitting of@200_Band_Magellan/PANIC and@100_Magellan/IMACS Lick indices (Spoints). This release contains integrated Spoints for 715 globular clusters covering "
+      },
+      {
+        "domain": "reddit",
+        "score": 0.005,
+        "text": "The science on this is somewhat mixed. There is evidence to support that eating very hot peppers (think Tabasco or cayenne) can activate your capsaicin receptors. These receptors are connected to an adenosine response in your mouth, which produces a feeling of cooling (your mouth feels wet). It is u"
+      }
+    ]
+  },
+  "overall_seen_val": {
+    "auroc": 0.9779056300882927,
+    "tpr_at_5fpr": 0.8925254312251216,
+    "acc": 0.9125014563672376,
+    "f1": 0.942385884158036
+  }
+}
